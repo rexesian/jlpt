@@ -1,0 +1,25 @@
+---
+title: jlpt-vocabulary
+author: ''
+date: '2020-06-14'
+slug: jlpt-vocabulary
+categories:
+  - jlpt
+  - nihongo
+tags:
+  - n5
+  - n4
+  - n3
+  - n2
+  - n1
+authors: []
+---
+
+#### **Sample Words**
+
+```{r}
+
+
+
+```
+
